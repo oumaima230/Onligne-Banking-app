@@ -1,5 +1,5 @@
 
-Application de Banque en Ligne
+#Application de Banque en Ligne
 Bienvenue dans notre application de banque en ligne ! Ce projet vous permet de gérer vos opérations bancaires de manière simple et efficace. Ci-dessous, vous trouverez des instructions sur la façon de configurer et d'utiliser l'application sur différentes plates-formes.
 
 Contenu du Projet :
