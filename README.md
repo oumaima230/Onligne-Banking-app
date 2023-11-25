@@ -1,51 +1,34 @@
-# Onligne Banking App
 
-#### How add image 
-<div>
-<img scr="https://github.com/yahyaouichaiima/Onligne-Banking-app/blob/main/Banque-en-ligne-Tout-sur-son-role-son-fonctionnement-ses-attraits-et-les-services-proposes-05.png" width "150" heigth"300"
-    </div>
-#### How add Link
-[Youtube] (https://www.youtube.com/watch?v=evz1LqEomTE&ab_channel=EngMohamedElsayed) - Learn program
+Application de Banque en Ligne
+Bienvenue dans notre application de banque en ligne ! Ce projet vous permet de gérer vos opérations bancaires de manière simple et efficace. Ci-dessous, vous trouverez des instructions sur la façon de configurer et d'utiliser l'application sur différentes plates-formes.
 
-##Onligne Banking App
-#code
+Contenu du Projet :
+index.html: Ce fichier sert de page d'accueil pour l'application. Ouvrez-le dans un navigateur web pour accéder à l'interface utilisateur. ici
 
+Fonctionnalités
+Notre application offre les fonctionnalités suivantes pour simplifier vos opérations bancaires :
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Online Banking App</title>
-</head>
-<body>
-    <div class="container">
-        <div class="form-container">
-            <form id="signin-form">
-                <h2>Connexion</h2>
-                <label for="username">Nom d'utilisateur :</label>
-                <input type="text" id="username" required>
-                <label for="password">Mot de passe :</label>
-                <input type="password" id="password" required>
-                <button type="submit">Se connecter</button>
-            </form>
-        </div>
-        <div class="form-container">
-            <form id="signup-form">
-                <h2>Inscription</h2>
-                <label for="new-username">Nouveau nom d'utilisateur :</label>
-                <input type="text" id="new-username" required>
-                <label for="new-password">Nouveau mot de passe :</label>
-                <input type="password" id="new-password" required>
-                <button type="submit">S'inscrire</button>
-            </form>
-        </div>
-    </div>
+Consultation du Solde: Visualisez facilement le solde de votre compte pour rester informé de votre situation financière.
 
-    <script src="script.js"></script>
-</body>
-</html>
+Transferts d'Argent: Effectuez des transferts d'argent en toute simplicité entre vos comptes ou vers d'autres bénéficiaires.
+
+Gestion des Cartes Bancaires: Accédez et gérez vos cartes bancaires, activez/désactivez des fonctionnalités de paiement, et suivez l'état de vos cartes.
+
+Historique des Transactions: Consultez l'historique détaillé de vos transactions pour suivre et analyser vos dépenses.
+
+virements : À l'aide de notre plateforme bancaire en ligne, vous pouvez facilement effectuer un virement en quelques clics, en spécifiant simplement le bénéficiaire, le montant et en confirmant la transaction en toute sécurité depuis le confort de votre domicile
+
+Guide d'Installation
+Sur un Navigateur Web Clonez ou téléchargez ce projet sur votre machine. Ouvrez le fichier index.html dans n'importe quel navigateur web moderne. Commencez à explorer les fonctionnalités de l'application.
+
+Sur Android
+Assurez-vous que votre appareil Android prend en charge l'installation d'applications depuis des sources inconnues. Copiez le fichier index.html sur votre appareil Android. Utilisez un navigateur web mobile pour ouvrir le fichier index.html. Ajoutez l'application à l'écran d'accueil pour un accès rapide.
+
+Sur iOS
+Transférez le fichier index.html sur votre appareil iOS. Utilisez un navigateur web mobile compatible avec iOS pour ouvrir le fichier index.html. Ajoutez l'application à l'écran d'accueil pour un accès facile.
+
+Remarques Importantes
+Assurez-vous d'avoir une connexion internet stable pour des mises à jour en temps réel. Gardez vos informations d'identification sécurisées et ne les partagez pas. Si vous rencontrez des problèmes, consultez notre documentation ou contactez le support technique. Profitez de votre expérience bancaire en ligne avec notre application !
 
 
 
